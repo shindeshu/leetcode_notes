@@ -1,0 +1,18 @@
+- strings
+- two-pointers
+- sliding window
+- prefix-sum
+- binary search
+- greedy
+- binary trees
+- heaps
+- stack
+- backtracking
+- combinations & permutations
+- data stream
+- doubly linked list
+- graphs
+- monotonically inc/dec queue
+- mergesort
+- unionfind
+- trie (prefix tree)
